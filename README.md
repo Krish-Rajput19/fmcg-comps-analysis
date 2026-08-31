@@ -1,5 +1,5 @@
-FMCG Comps Analysis
-markdown:![chart](pe_graph.png)
+# FMCG Comps Analysis
+![chart](pe_graph.png)
 The six tickers used:
 1. HINDUNILVR.NS (Hindustan Unilever)
 2. ITC.NS (ITC)
