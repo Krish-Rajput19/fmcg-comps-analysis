@@ -1,3 +1,5 @@
+**Live app:** https://fmcg-comps-analysis.streamlit.app/
+
 # FMCG Comps Analysis
 ![chart](pe_graph.png)
 The six tickers used:
